@@ -1,5 +1,5 @@
 # lottery-texas-scratchoffs
 
-Update neo4jaura db with the current Texas Lottery Scratch Ticket Prizes Claimed data.
+Update Neo4J AuraDB with the current Texas Lottery Scratch Ticket Prizes Claimed data.
 
 Runs daily via GitHub action.
